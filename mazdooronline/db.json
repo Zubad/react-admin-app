@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Zubad",
+      "email": "ali95@gmail.com",
+      "phone": "0331043762022"
+    },
+    {
+      "id": "2",
+      "name": "Nabeel",
+      "username": "Nabeel",
+      "email": "nabeel@khach.com",
+      "phone": "032132213131",
+      "company": "Khack Private Limited"
+    },
+    {
+      "id": "3",
+      "name": "Test User",
+      "username": "testuser",
+      "email": "testuser@test.com",
+      "phone": "000000000000",
+      "company": "test company"
+    }
+  ]
+}
