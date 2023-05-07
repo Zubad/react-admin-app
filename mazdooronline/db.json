@@ -16,11 +16,19 @@
     },
     {
       "id": "3",
-      "name": "Test User",
-      "username": "testuser",
-      "email": "testuser@test.com",
+      "name": "Hammad",
+      "username": "Hammad",
+      "email": "hammad@test.com",
       "phone": "000000000000",
       "company": "test company"
+    },
+    {
+      "id": "4",
+      "name": "new user",
+      "username": "new user ",
+      "email": "user@gmail.com",
+      "phone": "03221345678",
+      "company": "newcompany"
     }
   ]
 }
